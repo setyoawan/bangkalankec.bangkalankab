@@ -1,0 +1,46 @@
+<section class="ftco-section ftco-no-pb">
+    <div class="container">
+        <!-- <div class="row no-gutters"> -->
+        <div class="row justify-content-center mb-5">
+            <div class="col-md-7 heading-section text-center ftco-animate">
+                <span class="subheading">Sejarah</span>
+
+            </div>
+        </div>
+        <!-- </div> -->
+        <p>Bangkalan berasal dari kata “bangkah” dan ”la’an” yang artinya “mati sudah”. Istilah ini diambil dari cerita legenda tewasnya pemberontak sakti Ki Lesap yang tewas di Madura Barat. Menurut beberapa sumber, disebutkan bahwa Raja Majapahit yaitu Brawijaya ke V telah masuk Islam (data kekunoan di Makam Putri Cempa di Trowulan, Mojokerto). Namun demikian siapa sebenarnya yang dianggap Brawijaya ke V.</p>
+        <p>Didalam buku Madura en Zijin Vorstenhuis dimuat antara lain Stamboon van het Geslacht Tjakradiningrat.</p>
+        <p>Dari Stamboon tersebut tercatat bahwa Prabu Brawijaya ke V memerintah tahun 1468–1478. Dengan demikian, maka yang disebut dengan gelar Brawijaya ke V (Madura en Zijin Vorstenhuis hal 79) adalah Bhre Krtabhumi dan mempunyai 2 (dua) orang anak dari dua istri selir. Dari yang bernama Endang Sasmito Wati melahirkan Ario Damar dan dari istri yang bernama Ratu Dworo Wati atau dikenal dengan sebutan Putri Cina melahirkan Lembu Peteng. Selanjutnya Ario Damar (Adipati Palembang) mempunyai anak bernama Menak Senojo.</p>
+        <p>Menak Senojo tiba di Proppo Pamekasan dengan menaiki bulus putih dari Palembang kemudian meneruskan perjalannya ke Barat (Bangkalan). Saat dalam perjalanan di taman mandi Sara Sido di Sampang pada tengah malam Menak Senojo mendapati banyak bidadari mandi di taman itu, oleh Menak Senojo pakaian salah satu bidadari itu diambil yang mana bidadari itu tidak bisa kembali ke kayangan dan akhirnya jadi istri Menak Senojo.</p>
+        <p>Bidadari tersebut bernama Nyai Peri Tunjung Biru Bulan atau disebut juga Putri Tunjung Biru Sari. Menak Senojo dan Nyai Peri Tunjung Biru Bulan mempunyai anak Ario Timbul. Ario Timbul mempunyai anak Ario Kudut. Ario Kudut mempunyai anak Ario Pojok. Sedangkan di pihak Lembu Peteng yang bermula tinggal di Madegan Sampang kemudian pindah ke Ampel (Surabaya) sampai meninggal dan dimakamkan di Ampel, Lembu Peteng mempunyai anak bernama Ario Manger yang menggantikan ayahnya di Madegan Sampang. Ario Manger mempunyai anak Ario Pratikel yang semasa hidupnya tinggal di Gili Mandangin (Pulau Kambing). Dan Ario Pratikel mempunyai anak Nyai Ageng Budo.</p>
+        <p>Nyai Ageng Budo inilah yang kemudian kawin dengan Ario Pojok. Dengan demikian keturunan Lembu Peteng menjadi satu dengan keturunan Ario Damar. Dari perkawinan tersebut lahirlah Kiai Demang yang selanjutnya merupakan cikal bakal Kota Baru dan kemudian disebut Plakaran. Jadi Kiai Demang bertahta di Plakaran Arosbaya dan ibukotanya Kota Baru (Kota Anyar) yang terletak disebelah Timurdaya Arosbaya. Dari perkawinannya dengan Nyai Sumekar mempunyai 5 (lima) orang anak yaitu :</p>
+
+        <li>Kiai Adipati Pramono di Madegan Sampang.</li>
+        <li>Kiai Pratolo disebut juga Pangeran Parambusan.</li>
+        <li>Kiai Pratali atau disebut juga Pangeran Pesapen .</li>
+        <li>Pangeran Paningkan disebut juga dengan nama Pangeran Suka Sudo .</li>
+        <li>Kiai Pragalbo yang kemudian dikenal dengan nama Pangeran Plakaran karena bertahta di Plakaran, setelah meninggal dikenal sebagai Pangeran Islam Onggu’.</li>
+        <br>
+        <p>Namun perkembangan Bangkalan bukan berasal dari legenda ini, melainkan diawali dari sejarah perkembangan Islam di daerah itu pada masa pemerintahan Panembahan Pratanu yang bergelar Lemah Dhuwur.</p>
+        <p>Beliau adalah anak Raja Pragalba, pendiri kerajaan kecil yang berpusat di Arosbaya, sekitar 20 km dari kota Bangkalan ke arah utara. Panembahan Pratanu diangkat sebagai raja pada 24 Oktober 1531 setelah ayahnya, Raja Pragalba wafat. Jauh sebelum pengangkatan itu, ketika Pratanu masih dipersiapkan sebagai pangeran, dia bermimpi didatangi orang yang menganjurkan dia memeluk agama Islam. Mimpi ini diceritakan kepada ayahnya yang kemudian memerintahkan patih Empu Bageno untuk mempelajari Islam di Kudus.</p>
+        <p>Perintah ini dilaksanakan sebaik-baiknya, bahkan Bageno bersedia masuk Islam sesuai saran Sunan Kudus sebelum menjadi santrinya selama beberapa waktu lamanya. Ia kembali ke Arosbaya dengan ilmu keislamannya dan memperkenalkannya kepada Pangeran Pratanu.</p>
+        <p>Pangeran ini sempat marah setelah tahu Bageno masuk Islam mendahuluinya. Tapi setelah dijelaskan bahwa Sunan Kudus mewajibkannya masuk Islam sebelum mempelajari agama itu, Pangeran Pratanu menjadi maklum.</p>
+        <p>Setelah ia sendiri masuk Islam dan mempelajari agama itu dari Empu Bageno, ia kemudian menyebarkan agama itu ke seluruh warga Arosbaya. Namun ayahnya, Raja Pragalba, belum tertarik untuk masuk Islam sampai ia wafat dan digantikan oleh Pangeran Pratanu. </p>
+        <p>Perkembangan Islam itulah yang dianut oleh pimpinan di Kabupaten Bangkalan ketika akan menentukan hari jadi kota Bangkalan, bukan perkembangan kekuasan kerajaan di daerah itu.</p>
+        <p>Jauh sebelum Pangeran Pratanu dan Empu Bageno menyebarkan Islam, sejumlah kerajaan kecil di Bangkalan.</p>
+        <p>Diawali dari Kerajaan Plakaran yang didirikan oleh Kyai Demang dari Sampang. Yang diperkirakan merupakan bagian dari Kerajaan Majapahit yang sangat berpengaruh pada saat itu. Kyai Demang menikah dengan Nyi Sumekar, yang diantaranya melahirkan Raden Pragalba. Pragalba menikahi tiga wanita. Pratanu adalah anak Pragalba dari istri ketiga yang dipersiapkan sebagai putera mahkota dan kemudian dikenal sebagai raja Islam pertama di Madura. Pratanu menikah dengan putri dari Pajang yang memperoleh keturunan lima orang :</p>
+        <p>Pangeran Sidhing Gili yang memerintah di Sampang. Raden Koro yang bergelar Pangeran Tengah di Arosbaya, Raden Koro menggantikan ayahnya ketika Pratanu wafat. Pangeran Blega yang diberi kekuasaan di Blega. Ratu Mas di Pasuruan dan Ratu Ayu.<br>
+            Kerajaan Arosbaya runtuh diserang oleh Mataram pada masa pemerintahan Pangeran Mas pada tahun 1624. Pada pertempuran ini Mataram kehilangan panglima perangnya, Tumenggung Demak, beberapa pejabat tinggi kerajaan dan sebanyak 6.000 prajurit gugur.
+            Korban yang besar ini terjadi pada pertempuran mendadak pada hari Minggu, 15 September 1624, yang merupakan perang besar. Laki-laki dan perempuan kemedan laga. Beberapa pejuang laki-laki sebenarnya masih bisa tertolong jiwanya. Namun ketika para wanita akan menolong mereka melihat luka laki-laki itu berada pada punggung, mereka justru malah membunuhnya.
+            Luka di punggung itu menandakan bahwa mereka melarikan diri, yang dianggap menyalahi jiwa ksatria. Saat keruntuhan kerajaan itu, Pangeran Mas melarikan diri ke Giri. Sedangkan Prasena (putera ketiga Pangeran Tengah) dibawa oleh Juru Kitting ke Mataram, yang kemudian diakui sebagai anak angkat oleh Sultan Agung dan dilantik menjadi penguasa seluruh Madura yang berkedudukan di Sampang dan bergelar Tjakraningrat I.
+            Keturunan Tjakraningrat inilah yang kemudian mengembangkan pemerintahan kerajaan baru di Madura, termasuk Bangkalan. Tjakraningrat I menikah dengan adik Sultan Agung. Selama pemerintahannya ia tidak banyak berada di Sampang, sebab ia diwajibkan melapor ke Mataram sekali setahun ditambah beberapa tugas lainnya. Sementara kekuasaan di Madura diserahkan kepada Sontomerto.
+            Dari perkawinannya dengan adik Sultan Agung, Tjakraningrat tidak mempunyai keturunan sampai istrinya wafat. Baru dari pernikahannya dengan Ratu Ibu ( Syarifah Ambani, keturunan Sunan Giri ), ia memperoleh tiga orang anak dan beberapa orang anak lainnya diperoleh dari selirnya (Tertera pada Silsilah yang ada di Asta Aer Mata Ibu.
+            Bangkalan berkembang mulai tahun 1891 sebagai pusat kerajaan dari seluruh kekuasaan di Madura, pada masa pemerintahan Pangeran Tjakraningrat II yang bergelar Sultan Bangkalan II. Raja ini banyak berjasa kepada Belanda dengan membantu mengembalikan kekuasaan Belanda di beberapa daerah di Nusantara bersama tentara Inggris.
+            Karena jasa-jasa Tjakraningrat II itu, Belanda memberikan izin kepadanya untuk mendirikan militer yang disebut ‘Corps Barisan’ dengan berbagai persenjataan resmi modern saat itu. Bisa dikatakan Bangkalan pada waktu itu merupakan gudang senjata, termasuk gudang bahan peledak.
+            Namun perkembangan kerajaan di Bangkalan justru mengkhawatirkan Belanda setelah kerajaan itu semakin kuat, meskipun kekuatan itu merupakan hasil pemberian Belanda atas jasa-jasa Tjakraningrat II membantu memadamkan pemberontakan di beberapa daerah. Belanda ingin menghapus kerajaan itu. Ketika Tjakraningrat II wafat, kemudian digantikan oleh Pangeran Adipati Setjoadiningrat IV yang bergelar Panembahan Tjokroningrat VIII, Belanda belum berhasil menghapus kerajaan itu. Baru setelah Panembahan Tjokroadiningrat wafat, sementara tidak ada putera mahkota yang menggantikannya, Belanda memiliki kesempatan menghapus kerajaan yang kekuasaannya meliputi wilayah Madura itu.</p>
+
+
+
+
+    </div>
+</section>
